@@ -1,0 +1,23 @@
+{
+  "name": "goodbot",
+  "version": "1.0.4",
+  "description": "an easy to use package for building discord bots",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "andreagennaioli",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "fs": "0.0.1-security"
+  },
+  "keywords": [
+    "discord",
+    "discord.js",
+    "bot",
+    "commando",
+    "goodbot",
+    "commands"
+  ]
+}
